@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670055602696",
+    "firebase_url": "https://labthree-2b72a.firebaseio.com",
+    "project_id": "labthree-2b72a",
+    "storage_bucket": "labthree-2b72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670055602696:android:382ac016f6f404f3004fbd",
+        "android_client_info": {
+          "package_name": "com.example.labthree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670055602696-io3qqv18t037qso4ci2ops2tfle6bqqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6XkkIubXqY2-hFrp2rnenpPklZxuyI5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670055602696-io3qqv18t037qso4ci2ops2tfle6bqqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

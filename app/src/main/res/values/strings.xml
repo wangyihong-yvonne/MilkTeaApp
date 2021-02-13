@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LabThree</string>
+    <string name="menu">Summer Drink Menu</string>
+    <string name="boba">BOBA &amp; OTHERS</string>
+    <string name="Buddies">BUDDIES</string>
+    <string name="about">About Us: We are a fake boba shop located in California.
+        We started as a small grassroots booth and have now expanded into a full sized company
+        with locations in San Francisco, Los Angeles, and San Jose. We strive to only
+        use the most natural and high quality experience to bring you the best boba on
+        the west coast.
+
+    </string>
+    <string name="button1">OPEN MENU</string>
+    <string name="button2">DOWNLOAD MENU</string>
+    <string name="button3">NEW MENU ITEMS</string>
+    <string name="order">Find us on GrubHub, Doordash, and Ritual!</string>
+    <string name="hours">Hours: \n
+    Mon - Fri: 8am - 7pm \n
+    Sat : 12am - 10pm \n
+    Sun: Closed </string>
+    <string name="bogo">ALL SUMMER DRINKS ARE BOGO UNTIL 8/30 OR WHILE SUPPLIES LAST.</string>
+</resources>
